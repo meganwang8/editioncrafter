@@ -1,9 +1,9 @@
 {
   "id": "ec",
   "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "iiifManifest": "/<editioncrafter>/<fr640>/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "text": "Translation (EN)"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/<editioncrafter>"
 }
