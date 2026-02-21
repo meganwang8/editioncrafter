@@ -1,0 +1,1114 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfij7f4v2y00",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfij7f4v2y00",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 004 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfd5ieosvx2e",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfd5ieosvx2e",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 004 - vue 2"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://meganwang8.github.io/editioncrafter//abbeville/tei/transcription/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://meganwang8.github.io/editioncrafter//abbeville/html/transcription/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f001"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v93wrvt87oop",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v93wrvt87oop",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 004 - vue 3"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://meganwang8.github.io/editioncrafter//abbeville/tei/transcription/f002.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://meganwang8.github.io/editioncrafter//abbeville/html/transcription/f002.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f002"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v7v5bq79r8p5",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v7v5bq79r8p5",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 022v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/ve8j20fz2t96",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/ve8j20fz2t96",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 022v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq12j9a7x0fs",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq12j9a7x0fs",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 037 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5qjd0blpgzx",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5qjd0blpgzx",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 037 - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v02yf108b7zc",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v02yf108b7zc",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 051v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9jljrjj6bpx",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9jljrjj6bpx",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f008"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 051v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2x7nnnmkoo",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2x7nnnmkoo",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f009"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 074v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi3qjc2qbe0v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi3qjc2qbe0v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f010"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 074v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0kmj4svtpqv",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0kmj4svtpqv",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f011"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 107v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vnyiam5vaued",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vnyiam5vaued",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f012"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 107v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f013",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f013/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f013/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vkyqmp21px1a",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vkyqmp21px1a",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f013"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 144v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f014",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f014/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjkecf7262q4",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjkecf7262q4",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f014"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 144v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f015",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f015/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk0rqw1kaf48",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk0rqw1kaf48",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f015"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 172v - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f016",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f016/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f016/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5rx8tn5uxpf",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5rx8tn5uxpf",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f016"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 172v - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f017",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f017/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f017/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vb2vi52lv75w",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vb2vi52lv75w",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f017"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 221 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f018",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f018/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f018/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vyvszf3fkckc",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vyvszf3fkckc",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f018"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 221 - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f019",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f019/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f019/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9s5xy0vog6q",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9s5xy0vog6q",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f019"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 248 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f020",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f020/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f020/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vbpwearlgnkc",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vbpwearlgnkc",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f020"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 248 - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f021",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f021/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f021/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgjsjzdvjp5c",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgjsjzdvjp5c",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f021"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 277 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f022",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f022/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f022/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2bwyzc4qou",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2bwyzc4qou",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f022"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 277 - vue 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f023",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f023/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f023/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vm25eol28yis",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vm25eol28yis",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f023"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 302 - vue 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f024",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f024/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f024/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq1r3wbs2oo4",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5000,
+								"width": 3750,
+								"service": [
+									{
+										"id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq1r3wbs2oo4",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://meganwang8.github.io/editioncrafter//abbeville/iiif/canvas/f024"
+						}
+					]
+				}
+			],
+			"height": 5000,
+			"width": 3750,
+			"label": {
+				"none": [
+					"f. 302 - vue 2"
+				]
+			},
+			"annotations": []
+		}
+	],
+	"label": {
+		"en": [
+			"abbeville"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<draft>",
-  "iiifManifest": "/editioncrafter/fr640/iiif/manifest.json",
+  "documentName": "<Abbeville Book>",
+  "iiifManifest": "/editioncrafter/abbeville/iiif/manifest.json",
   "transcriptionTypes": {
-    "text": "Translation (EN)"
+    "transcription": "Transcription"
   },
   "viewerUrl": "/editioncrafter"
 }

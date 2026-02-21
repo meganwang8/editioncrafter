@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://api.irht.cnrs.fr/ark:/63955/fxvr2fouby6a/manifest.json">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384364" ><label>f. 004 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfij7f4v2y00"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384365" ><label>f. 004 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfd5ieosvx2e"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384366" ><label>f. 004 - vue 3</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v93wrvt87oop"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384367" ><label>f. 022v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v7v5bq79r8p5"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384368" ><label>f. 022v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/ve8j20fz2t96"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384369" ><label>f. 037 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq12j9a7x0fs"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384370" ><label>f. 037 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5qjd0blpgzx"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384371" ><label>f. 051v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v02yf108b7zc"/></surface>
+          <surface xml:id="f008" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384372" ><label>f. 051v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9jljrjj6bpx"/></surface>
+          <surface xml:id="f009" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384373" ><label>f. 074v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2x7nnnmkoo"/></surface>
+          <surface xml:id="f010" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384374" ><label>f. 074v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi3qjc2qbe0v"/></surface>
+          <surface xml:id="f011" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384375" ><label>f. 107v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0kmj4svtpqv"/></surface>
+          <surface xml:id="f012" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384376" ><label>f. 107v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vnyiam5vaued"/></surface>
+          <surface xml:id="f013" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384377" ><label>f. 144v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vkyqmp21px1a"/></surface>
+          <surface xml:id="f014" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384378" ><label>f. 144v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjkecf7262q4"/></surface>
+          <surface xml:id="f015" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384379" ><label>f. 172v - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk0rqw1kaf48"/></surface>
+          <surface xml:id="f016" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384380" ><label>f. 172v - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5rx8tn5uxpf"/></surface>
+          <surface xml:id="f017" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384381" ><label>f. 221 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vb2vi52lv75w"/></surface>
+          <surface xml:id="f018" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384382" ><label>f. 221 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vyvszf3fkckc"/></surface>
+          <surface xml:id="f019" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384383" ><label>f. 248 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v9s5xy0vog6q"/></surface>
+          <surface xml:id="f020" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384384" ><label>f. 248 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vbpwearlgnkc"/></surface>
+          <surface xml:id="f021" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384385" ><label>f. 277 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgjsjzdvjp5c"/></surface>
+          <surface xml:id="f022" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384386" ><label>f. 277 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vv2bwyzc4qou"/></surface>
+          <surface xml:id="f023" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384387" ><label>f. 302 - vue 1</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vm25eol28yis"/></surface>
+          <surface xml:id="f024" ulx="0" uly="0" lrx="3750" lry="5000" sameAs="https://arca.irht.cnrs.fr/iiif/89364/canvas/canvas-1384388" ><label>f. 302 - vue 2</label><graphic mimeType="application/json" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq1r3wbs2oo4"/></surface>
+
+      </facsimile>
+
+      <text xml:id="transcription">
+<body><div>
+    <pb facs="#f001" />
+<ab>
+<lb />A ombien que au comen
+<lb />cement de cel te tranlfa
+</ab>
+
+<pb facs="#f002" />
+<ab>
+<lb />A ombien que au comen
+<lb />cement de cel te tranlfa
+</ab>
+
+  </div></body>
+      </text>
+  </TEI>
